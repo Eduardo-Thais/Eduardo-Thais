@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 Im Eduardo a .NET Developer And Game Developer
+starting to learn unity to create games.
+https://masterlink254.itch.io/spaceshooter I create this game following the Aprenda unity course aprendaunitypro.com.br
+
+### Contact
+Email: dudu2541999@gmail.com
 
 <!--
 **Eduardo-Thais/Eduardo-Thais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
