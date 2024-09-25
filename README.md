@@ -6,6 +6,7 @@ https://masterlink254.itch.io/spaceshooter I create this game following the Apre
   <a href="https://github.com/Eduardo-Thais">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eduardo-Thais&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Thais&theme=dracula&layout=compact&langs_count=16" />
+  <img align="top" alt="Link-eu" heigth="125" width="125" src="https://cdn.discordapp.com/attachments/1186041362508951582/1288327532243845120/Link.png?ex=66f4c803&is=66f37683&hm=c9d7ffcb9168066d408bd1f1f48ef999216596d85459addc541d6f2c53718bc9&">
 </div>
 
 <div style="display: inline-block"><br>
@@ -23,6 +24,7 @@ https://masterlink254.itch.io/spaceshooter I create this game following the Apre
   <a href="https://www.instagram.com/_eduardo_thais_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.twitch.tv/masterlink254" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="mailto:dudu2541999@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
 </div>
 
 <div>
@@ -31,7 +33,6 @@ https://masterlink254.itch.io/spaceshooter I create this game following the Apre
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eduardo-Thais/Eduardo-Thais/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Eduardo-Thais/Eduardo-Thais/output/github-contribution-grid-snake.svg">
   </picture>
-  <img align="top" alt="Link-eu" heigth="125" width="125" src="https://cdn.discordapp.com/attachments/1186041362508951582/1288327532243845120/Link.png?ex=66f4c803&is=66f37683&hm=c9d7ffcb9168066d408bd1f1f48ef999216596d85459addc541d6f2c53718bc9&">
 </div>
 <!--
 **Eduardo-Thais/Eduardo-Thais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
