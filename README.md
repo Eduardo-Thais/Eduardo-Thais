@@ -6,7 +6,7 @@ https://masterlink254.itch.io/spaceshooter I create this game following the Apre
   <a href="https://github.com/Eduardo-Thais">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eduardo-Thais&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Thais&theme=dracula&layout=compact&langs_count=16" />
-  <img align="top" alt="Link-eu" heigth="125" width="125" src="https://cdn.discordapp.com/attachments/1186041362508951582/1288327532243845120/Link.png?ex=66f4c803&is=66f37683&hm=c9d7ffcb9168066d408bd1f1f48ef999216596d85459addc541d6f2c53718bc9&">
+  <!--<img align="top" alt="Link-eu" heigth="125" width="125" src="https://cdn.discordapp.com/attachments/1186041362508951582/1288327532243845120/Link.png?ex=66f4c803&is=66f37683&hm=c9d7ffcb9168066d408bd1f1f48ef999216596d85459addc541d6f2c53718bc9&">-->
 </div>
 
 <div style="display: inline-block"><br>
