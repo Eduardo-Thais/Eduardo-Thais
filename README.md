@@ -23,7 +23,7 @@ https://masterlink254.itch.io/spaceshooter I create this game following the Apre
   <a href="https://www.linkedin.com/in/eduardo-thais/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/_eduardo_thais_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.twitch.tv/masterlink254" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="mailto:dudu2541999@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:eduardothais.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 </div>
 
@@ -33,6 +33,8 @@ https://masterlink254.itch.io/spaceshooter I create this game following the Apre
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eduardo-Thais/Eduardo-Thais/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Eduardo-Thais/Eduardo-Thais/output/github-contribution-grid-snake.svg">
   </picture>
+  <br />
+  Email: eduardothais.dev@gmail.com
 </div>
 <!--
 **Eduardo-Thais/Eduardo-Thais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
